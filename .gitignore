@@ -1,0 +1,9 @@
+therm/*
+autoc/*
+longs/*
+
+*~
+*/slurm*.out
+
+.ipynb_checkpoints
+.DS_Store
